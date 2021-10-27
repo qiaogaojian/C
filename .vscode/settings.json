@@ -2,5 +2,7 @@
   "files.encoding": "gb2312",
   "files.associations": {
     "cstdio": "cpp",
+    "limits": "c",
+    "type_traits": "c"
 }
 }
